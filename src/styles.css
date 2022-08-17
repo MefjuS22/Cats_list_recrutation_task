@@ -1,0 +1,17 @@
+:root {
+  --background-color: #f9ebe0;
+  --text-color: #322f33;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  margin: 0 auto;
+  padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}

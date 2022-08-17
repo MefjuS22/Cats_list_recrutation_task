@@ -1,0 +1,10 @@
+W razie potrzeby do użycia cats api (https://thecatapi.com/) zastosować klucz fcc151e0-7c1c-4b3b-a5c7-938547b28224
+https://api.thecatapi.com/v1/breeds?page=1&limit=4
+
+W tym zadaniu rekrutacyjnym naszym zadanie jest:
+- Przepisanie komponentu CatList i Cat z komponentu klasowego na komponent funkcyjny z zachowaniem efektów.
+- Ostylowanie listy kotów oraz komponentów pojedyńczego kota. Lista ma sie wyświetlać w wersji po dwa boxy kota w wierszu. Na mobile po jednym. Element ma zawierać zdjęcię, opis oraz nazwę rasy kota
+- Boxy kotów z parametrem child_friendly powyżej 3 powinny być wyróżnione
+- Opcja usunięcie kota z listy z potwierdzeniem.
+- Zastąpienie listy kotów z mocka requestem do cats api z paginacją - doczytywanie po 4 elementy na klik buttonu
+- Dodanie typingów
